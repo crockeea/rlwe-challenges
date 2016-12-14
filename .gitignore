@@ -1,6 +1,0 @@
-reprof.py
-lol-cpp/lib
-**/*.prof
-**/.stack-work
-**/rlwe-secrets.tar.gz
-**/rlwe-challenges.*
